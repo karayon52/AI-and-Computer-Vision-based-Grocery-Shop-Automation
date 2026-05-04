@@ -9,4 +9,4 @@
 7. after that run python script
 8. then put your customer orders via either real time audio or scanner
 9. then select autonomous sorting
-youtube link: 
+10. youtube link: https://youtube.com/shorts/gbMprejG-eU?feature=share
